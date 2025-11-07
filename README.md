@@ -16,7 +16,7 @@ Technical Skills
 - Databases & Tools: Data Modeling, ETL/ELT, Hive
 - BI & Visualization: Tableau, Power BI
 - Methodologies: Agile, Project Management, Data-Driven Decision Making
-- 
+  
 My Data Analytics Portfolio
 
 Below are featured projects from my portfolio.
